@@ -1,7 +1,6 @@
 class Backoff < Formula
   desc "Run commands with customizable backoff and health checks"
   homepage "https://github.com/Mmx233/BackoffCli"
-  version "2.0.1"
   license "Apache-2.0"
 
   livecheck do

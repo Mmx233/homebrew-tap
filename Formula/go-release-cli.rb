@@ -1,7 +1,6 @@
 class GoReleaseCli < Formula
   desc "Build and package Go programs for multiple platforms"
   homepage "https://github.com/Mmx233/GoReleaseCli"
-  version "1.4.8"
   license "BSD-3-Clause"
 
   livecheck do

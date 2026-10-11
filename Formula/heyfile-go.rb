@@ -1,7 +1,6 @@
 class HeyfileGo < Formula
   desc "Share and receive files over a local network"
   homepage "https://github.com/Mmx233/HeyFileGo"
-  version "3.0.2"
   license "Apache-2.0"
 
   livecheck do

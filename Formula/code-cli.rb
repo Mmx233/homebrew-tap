@@ -1,7 +1,6 @@
 class CodeCli < Formula
   desc "Clone repositories and open projects in an IDE, terminal or browser"
   homepage "https://github.com/Mmx233/CodeCli"
-  version "2.0.1"
   license "AGPL-3.0-only"
 
   livecheck do
